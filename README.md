@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @JuliaMMS
 - 👀 I’m interested in learning how to be full stack developer.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning python, javascript, html e css.
+- 💞️  I'm looking to collaborate in teams that can assist me and provide expertise!
 
 <!---
 JuliaMMS/JuliaMMS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
